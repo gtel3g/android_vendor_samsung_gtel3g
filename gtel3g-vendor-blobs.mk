@@ -22,9 +22,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gtel3g/proprietary/etc/wifi/nvram_mfg.txt:system/vendor/etc/wifi/nvram_mfg.txt \
     vendor/samsung/gtel3g/proprietary/etc/wifi/nvram_net.txt:system/vendor/etc/wifi/nvram_net.txt \
     vendor/samsung/gtel3g/proprietary/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
+    vendor/samsung/gtel3g/proprietary/lib/hw/sensors.vendor.sc8830.so:system/vendor/lib/hw/sensors.vendor.sc8830.so \
+    vendor/samsung/gtel3g/proprietary/lib/hw/camera.vendor.sc8830.so:system/vendor/lib/hw/camera.vendor.sc8830.so \
     vendor/samsung/gtel3g/proprietary/lib/libboost.so:system/vendor/lib/libboost.so \
     vendor/samsung/gtel3g/proprietary/lib/libisp.so:system/vendor/lib/libisp.so \
     vendor/samsung/gtel3g/proprietary/lib/libmorpho_easy_hdr.so:system/vendor/lib/libmorpho_easy_hdr.so \
-    vendor/samsung/gtel3g/proprietary/lib/libuvdenoise.so:system/vendor/lib/libuvdenoise.so \
-    vendor/samsung/gtel3g/proprietary/lib/libcamsensors.so:system/vendor/lib/libcamsensors.so \
-    vendor/samsung/gtel3g/proprietary/lib/hw/sensors.vendor.sc8830.so:system/vendor/lib/hw/sensors.vendor.sc8830.so \
+    vendor/samsung/gtel3g/proprietary/lib/libuvdenoise.so:system/vendor/lib/libuvdenoise.so 
