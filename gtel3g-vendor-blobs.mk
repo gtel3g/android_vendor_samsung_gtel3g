@@ -16,9 +16,9 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/gtel3g/proprietary/bin/phoneserver:system/vendor/bin/phoneserver \
-    vendor/samsung/gtel3g/proprietary/etc/wifi/bcmdhd_apsta.bin:system/vendor/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/gtel3g/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/gtel3g/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
+    vendor/samsung/gtel3g/proprietary/etc/wifi/bcmdhd_apsta.bin:system/vendor/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/gtel3g/proprietary/etc/wifi/bcmdhd_sta.bin:system/vendor/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/gtel3g/proprietary/etc/wifi/bcmdhd_mfg.bin:system/vendor/etc/wifi/bcmdhd_mfg.bin \
     vendor/samsung/gtel3g/proprietary/etc/wifi/nvram_mfg.txt:system/vendor/etc/wifi/nvram_mfg.txt \
@@ -29,5 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gtel3g/proprietary/lib/libboost.so:system/vendor/lib/libboost.so \
     vendor/samsung/gtel3g/proprietary/lib/libisp.so:system/vendor/lib/libisp.so \
     vendor/samsung/gtel3g/proprietary/lib/libmorpho_easy_hdr.so:system/vendor/lib/libmorpho_easy_hdr.so \
+    vendor/samsung/gtel3g/proprietary/lib/libreference-ril_sp.so:system/vendor/lib/libreference-ril_sp.so \
     vendor/samsung/gtel3g/proprietary/lib/libuvdenoise.so:system/vendor/lib/libuvdenoise.so \
     vendor/samsung/gtel3g/proprietary/vendor/firmware/BCM43430A1_001.002.009.0022.0000_Samsung_TabE_SM-T561_TEST_ONLY.hcd:system/vendor/firmware/BCM43430A1_001.002.009.0022.0000_Samsung_TabE_SM-T561_TEST_ONLY.hcd
